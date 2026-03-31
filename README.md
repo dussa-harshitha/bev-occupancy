@@ -56,7 +56,7 @@ Multi-Camera Images (6 views)
 
 ```bash
 # Clone
-git clone https://github.com/<your-team>/bev-occupancy.git
+git clone https://github.com/dussa-harshitha/bev-occupancy.git
 cd bev-occupancy
 
 # Environment

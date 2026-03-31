@@ -95,6 +95,10 @@ python inference.py --config configs/bevocc_efficientb4.py --checkpoint checkpoi
 | LSS (reproduced) | 38.7 | 0.298 | 22 |
 | **BEV-Occ (Ours)** | **42.1** | **0.251** | **18** |
 
+<img width="1926" height="997" alt="image" src="https://github.com/user-attachments/assets/d0552043-3329-4579-a836-fa942b60c989" />
+<img width="2019" height="612" alt="image" src="https://github.com/user-attachments/assets/5c76ef0d-87aa-4aa3-8c03-19558bf13312" />
+
+
 ## Key Novelties
 
 - **Metric-Aligned Training**: Distance-weighted BCE loss directly optimizes the evaluation criterion

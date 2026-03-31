@@ -104,7 +104,8 @@ python inference.py --config configs/bevocc_efficientb4.py --checkpoint checkpoi
 
 ## Team
 
-[Your team name and members]
+Team Name: Immobile Creatives
+Team Members: Jahnavi Sri Sai Akveti, Nakshatra Vinoth, Harshitha Dussa, Jonath Jimmi
 
 ## License
 
